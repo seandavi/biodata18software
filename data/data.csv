@@ -1,6 +1,8 @@
 url,name,user,type
+https://bioconductor.org/packages/compartmap,compartmap,NA,Bioconductor
 https://github.com/seandavi/biodata18software,biodata18software,seandavi,github
 https://github.com/mploenzke/talk,talk,mploenzke,github
+https://github.com/jmschrei/avocado,avocado,jmschrei,github
 https://github.com/lmcinnes/umap,umap,lmcinnes,github
 https://github.com/dewyman/talon,talon,dewyman,github
 https://github.com/alshai/r-index,r-index,alshai,github
