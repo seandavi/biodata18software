@@ -1,4 +1,5 @@
 url,name,user,type
+https://bioconductor.org/packages/BASiCS,BASiCS,NA,Bioconductor
 https://bioconductor.org/packages/PharmacoGx,PharmacoGx,NA,Bioconductor
 https://bioconductor.org/packages/metavizr,metavizr,NA,Bioconductor
 https://bioconductor.org/packages/debrowser,debrowser,NA,Bioconductor
