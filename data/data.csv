@@ -21,6 +21,7 @@ https://github.com/benjjneb/decontam,decontam,benjjneb,github
 https://github.com/CellProfiler/CellProfiler,CellProfiler,CellProfiler,github
 https://github.com/cytoai/cyto,cyto,cytoai,github
 https://github.com/czbiohub/kmer-hashing,kmer-hashing,czbiohub,github
+https://github.com/dewyman/talon,talon,dewyman,github
 https://github.com/dewyman/TALON,TALON,dewyman,github
 https://github.com/dewyman/TranscriptClean,TranscriptClean,dewyman,github
 https://github.com/drisso/SingleCellExperiment,SingleCellExperiment,drisso,github
@@ -33,6 +34,7 @@ https://github.com/gmod/jbrowse,jbrowse,gmod,github
 https://github.com/google/nucleus,nucleus,google,github
 https://github.com/gymreklab/gangstr,gangstr,gymreklab,github
 https://github.com/gymreklab/GangSTR,GangSTR,gymreklab,github
+https://github.com/haghshenas/PhISCS,PhISCS,haghshenas,github
 https://github.com/hammerlab/cytokit,cytokit,hammerlab,github
 https://github.com/illumina/paragraph,paragraph,illumina,github
 https://github.com/Illumina/paragraph,paragraph,Illumina,github
@@ -40,9 +42,11 @@ https://github.com/Illumina/strelka,strelka,Illumina,github
 https://github.com/jbkinney/mpathic,mpathic,jbkinney,github
 https://github.com/jfukuyama/adaptiveGPCA,adaptiveGPCA,jfukuyama,github
 https://github.com/jmschrei/avocado,avocado,jmschrei,github
+https://github.com/jmschrei/pomegranate,pomegranate,jmschrei,github
 https://github.com/krisrs1128/microbiome_plvm,microbiome_plvm,krisrs1128,github
 https://github.com/kundajelab/deeplift,deeplift,kundajelab,github
 https://github.com/lh3/seqtk,seqtk,lh3,github
+https://github.com/lmcinnes/umap,umap,lmcinnes,github
 https://github.com/luizirber/2018-biods,2018-biods,luizirber,github
 https://github.com/mcfefa/scRNAseq,scRNAseq,mcfefa,github
 https://github.com/mPloenzke/learnMotifs,learnMotifs,mPloenzke,github
@@ -51,6 +55,7 @@ https://github.com/pinellolab/crispr-surf,crispr-surf,pinellolab,github
 https://github.com/pinellolab/STREAM,STREAM,pinellolab,github
 https://github.com/robertaboukhalil/aioli,aioli,robertaboukhalil,github
 https://github.com/ropensci/piggyback,piggyback,ropensci,github
+https://github.com/shenwei356/bwt,bwt,shenwei356,github
 https://github.com/SiminaB/Presentations,Presentations,SiminaB,github
 https://github.com/DerrickWood/kraken2,kraken2,DerrickWood,github
 https://github.com/fbreitwieser/krakenuniq,krakenuniq,fbreitwieser,github
